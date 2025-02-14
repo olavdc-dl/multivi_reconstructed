@@ -1,0 +1,8 @@
+{"time":"2025-02-12T15:54:06.836570988Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/olavdc/github/multiVI/multiVI/wandb/run-20250212_155406-txe492v0/logs/debug-core.log"}
+{"time":"2025-02-12T15:54:06.939126383Z","level":"INFO","msg":"created new stream","id":"txe492v0"}
+{"time":"2025-02-12T15:54:06.939147263Z","level":"INFO","msg":"stream: started","id":"txe492v0"}
+{"time":"2025-02-12T15:54:06.939182913Z","level":"INFO","msg":"writer: Do: started","stream_id":"txe492v0"}
+{"time":"2025-02-12T15:54:06.939249583Z","level":"INFO","msg":"handler: started","stream_id":"txe492v0"}
+{"time":"2025-02-12T15:54:06.939278073Z","level":"INFO","msg":"sender: started","stream_id":"txe492v0"}
+{"time":"2025-02-12T15:54:14.152691506Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-12T15:58:40.524597825Z","level":"INFO","msg":"Pausing system monitor"}

@@ -1,0 +1,14 @@
+{"time":"2025-02-12T14:50:48.422193133Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/olavdc/github/multiVI/multiVI/wandb/run-20250212_145048-7tidyyn5/logs/debug-core.log"}
+{"time":"2025-02-12T14:50:48.525167219Z","level":"INFO","msg":"created new stream","id":"7tidyyn5"}
+{"time":"2025-02-12T14:50:48.525198629Z","level":"INFO","msg":"stream: started","id":"7tidyyn5"}
+{"time":"2025-02-12T14:50:48.525233349Z","level":"INFO","msg":"writer: Do: started","stream_id":"7tidyyn5"}
+{"time":"2025-02-12T14:50:48.525281029Z","level":"INFO","msg":"sender: started","stream_id":"7tidyyn5"}
+{"time":"2025-02-12T14:50:48.52531801Z","level":"INFO","msg":"handler: started","stream_id":"7tidyyn5"}
+{"time":"2025-02-12T14:50:48.726617547Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-12T14:53:27.721683721Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-12T14:53:56.767288005Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-12T14:53:56.771328582Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-12T14:53:56.903777661Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-12T14:53:56.905690035Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-12T14:54:04.164442972Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/deeplife/multiVI-training/7tidyyn5/file_stream"}
+{"time":"2025-02-12T14:54:04.164495552Z","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/deeplife/multiVI-training/7tidyyn5/file_stream: {\"error\":\"run multiVI-training/7tidyyn5 not found while streaming file\"}"}

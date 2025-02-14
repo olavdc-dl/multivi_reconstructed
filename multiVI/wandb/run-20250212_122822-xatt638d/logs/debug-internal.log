@@ -1,0 +1,8 @@
+{"time":"2025-02-12T12:28:22.735825815Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"wandb/run-20250212_122822-xatt638d/logs/debug-core.log"}
+{"time":"2025-02-12T12:28:22.838550919Z","level":"INFO","msg":"created new stream","id":"xatt638d"}
+{"time":"2025-02-12T12:28:22.838577419Z","level":"INFO","msg":"stream: started","id":"xatt638d"}
+{"time":"2025-02-12T12:28:22.838600269Z","level":"INFO","msg":"writer: Do: started","stream_id":"xatt638d"}
+{"time":"2025-02-12T12:28:22.838620829Z","level":"INFO","msg":"handler: started","stream_id":"xatt638d"}
+{"time":"2025-02-12T12:28:22.838724169Z","level":"INFO","msg":"sender: started","stream_id":"xatt638d"}
+{"time":"2025-02-12T12:28:23.211548651Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-12T12:28:29.242210082Z","level":"INFO","msg":"Pausing system monitor"}

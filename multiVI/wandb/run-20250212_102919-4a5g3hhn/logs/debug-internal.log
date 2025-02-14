@@ -1,0 +1,24 @@
+{"time":"2025-02-12T10:29:19.750471139Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"wandb/run-20250212_102919-4a5g3hhn/logs/debug-core.log"}
+{"time":"2025-02-12T10:29:19.853179342Z","level":"INFO","msg":"created new stream","id":"4a5g3hhn"}
+{"time":"2025-02-12T10:29:19.853205382Z","level":"INFO","msg":"stream: started","id":"4a5g3hhn"}
+{"time":"2025-02-12T10:29:19.853244371Z","level":"INFO","msg":"handler: started","stream_id":"4a5g3hhn"}
+{"time":"2025-02-12T10:29:19.853231672Z","level":"INFO","msg":"writer: Do: started","stream_id":"4a5g3hhn"}
+{"time":"2025-02-12T10:29:19.853322291Z","level":"INFO","msg":"sender: started","stream_id":"4a5g3hhn"}
+{"time":"2025-02-12T10:29:20.250632256Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-12T10:29:36.555722299Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-12T10:29:36.596238924Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-12T10:29:36.876096687Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-12T10:29:36.917872784Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-12T10:29:37.297064283Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-12T10:29:37.34341707Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-12T10:30:18.72229451Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-12T10:30:18.769020768Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-12T10:30:22.25333603Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-12T10:30:22.295464019Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-12T10:30:22.488595598Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-12T10:30:22.533905652Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-12T10:30:22.739156875Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-12T10:30:22.789260358Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-12T10:30:22.990273732Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-12T10:35:20.83887804Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/deeplife/multiVI-training/4a5g3hhn/file_stream"}
+{"time":"2025-02-12T10:35:20.83896528Z","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/deeplife/multiVI-training/4a5g3hhn/file_stream: {\"error\":\"run multiVI-training/4a5g3hhn not found while streaming file\"}"}

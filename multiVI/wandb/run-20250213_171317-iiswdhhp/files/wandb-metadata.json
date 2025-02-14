@@ -1,0 +1,42 @@
+{
+  "os":  "Linux-5.15.0-131-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.16",
+  "startedAt":  "2025-02-13T17:13:17.705414Z",
+  "program":  "/home/olavdc/github/multiVI/multiVI/MultiVI_recoded_training.ipynb",
+  "codePath":  "multiVI/multiVI/MultiVI_recoded_training.ipynb",
+  "git":  {
+    "remote":  "https://github.com/olavdc-dl/multiVI.git",
+    "commit":  "0aa8e1c676d48b4496781369ba571e2fcd9f8f7f"
+  },
+  "email":  "olav.declerck@deeplife.co",
+  "root":  "/home/olavdc/github/multiVI/multiVI",
+  "host":  "vm-odeclerck",
+  "executable":  "/home/olavdc/miniforge3/envs/deeplife/bin/python",
+  "codePathLocal":  "MultiVI_recoded_training.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "gpu":  "NVIDIA L4",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "123858165760",
+      "used":  "90017439744"
+    }
+  },
+  "memory":  {
+    "total":  "50508218368"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA L4",
+      "memoryTotal":  "24152899584",
+      "cudaCores":  7424,
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.4"
+}

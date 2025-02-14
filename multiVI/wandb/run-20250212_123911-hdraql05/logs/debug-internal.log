@@ -1,0 +1,8 @@
+{"time":"2025-02-12T12:39:11.498266809Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"wandb/run-20250212_123911-hdraql05/logs/debug-core.log"}
+{"time":"2025-02-12T12:39:11.601479261Z","level":"INFO","msg":"created new stream","id":"hdraql05"}
+{"time":"2025-02-12T12:39:11.601504861Z","level":"INFO","msg":"stream: started","id":"hdraql05"}
+{"time":"2025-02-12T12:39:11.60154301Z","level":"INFO","msg":"writer: Do: started","stream_id":"hdraql05"}
+{"time":"2025-02-12T12:39:11.60156788Z","level":"INFO","msg":"handler: started","stream_id":"hdraql05"}
+{"time":"2025-02-12T12:39:11.601643542Z","level":"INFO","msg":"sender: started","stream_id":"hdraql05"}
+{"time":"2025-02-12T12:39:12.049426701Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-12T12:39:18.19408726Z","level":"INFO","msg":"Pausing system monitor"}

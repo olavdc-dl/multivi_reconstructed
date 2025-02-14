@@ -1,0 +1,31 @@
+epoch nr. 0
+x batch 0 : 1570049.0
+x batch 30 : 1585035.0
+x batch 60 : 1455957.0
+epoch nr. 1
+x batch 0 : 1648281.0
+x batch 30 : 1876194.0
+x batch 60 : 1740527.0
+epoch nr. 2
+x batch 0 : 1570149.0
+x batch 30 : 1348810.0
+x batch 60 : 1411581.0
+epoch nr. 3
+x batch 0 : 1880573.0
+x batch 30 : 1232756.0
+x batch 60 : 1529951.0
+epoch nr. 4
+x batch 0 : 1735307.0
+/home/olavdc/miniforge3/envs/deeplife/lib/python3.10/site-packages/torch/nn/init.py:511: UserWarning: Initializing zero-element tensors is a no-op
+  warnings.warn("Initializing zero-element tensors is a no-op")
+epoch nr. 0
+x batch 0 : 1586622.0
+x batch 30 : 1438167.0
+x batch 60 : 1715871.0
+epoch nr. 1
+x batch 0 : 1616888.0
+x batch 30 : 1679978.0
+x batch 60 : 1682041.0
+epoch nr. 2
+x batch 0 : 1539520.0
+x batch 30 : 1773480.0

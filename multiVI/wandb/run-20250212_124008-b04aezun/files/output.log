@@ -1,0 +1,8 @@
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+/home/olavdc/miniforge3/envs/deeplife/lib/python3.10/site-packages/lightning/pytorch/trainer/connectors/data_connector.py:425: The 'train_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=7` in the `DataLoader` to improve performance.
+/home/olavdc/miniforge3/envs/deeplife/lib/python3.10/site-packages/lightning/pytorch/trainer/connectors/data_connector.py:425: The 'val_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=7` in the `DataLoader` to improve performance.
+Epoch 223/500:  45%|████▍     | 223/500 [19:06<23:44,  5.14s/it, v_num=ezun, train_loss_step=1.09e+4, train_loss_epoch=1.33e+4]
+Monitored metric reconstruction_loss_validation did not improve in the last 50 records. Best score: 14089.938. Signaling Trainer to stop.
+[34mINFO    [0m File [35m/tmp/tmpushxqo3c/multivi_pbmc10k/[0m[95mmodel.pt[0m already downloaded
+/home/olavdc/miniforge3/envs/deeplife/lib/python3.10/site-packages/torch/nn/init.py:511: UserWarning: Initializing zero-element tensors is a no-op
+  warnings.warn("Initializing zero-element tensors is a no-op")
