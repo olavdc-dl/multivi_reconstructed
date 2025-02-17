@@ -1,8 +1,0 @@
-{"time":"2025-02-13T17:40:04.80821059Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/olavdc/github/multiVI/multiVI/wandb/run-20250213_174004-gk8fv1v8/logs/debug-core.log"}
-{"time":"2025-02-13T17:40:04.910816438Z","level":"INFO","msg":"created new stream","id":"gk8fv1v8"}
-{"time":"2025-02-13T17:40:04.910910928Z","level":"INFO","msg":"stream: started","id":"gk8fv1v8"}
-{"time":"2025-02-13T17:40:04.910932438Z","level":"INFO","msg":"writer: Do: started","stream_id":"gk8fv1v8"}
-{"time":"2025-02-13T17:40:04.910953178Z","level":"INFO","msg":"handler: started","stream_id":"gk8fv1v8"}
-{"time":"2025-02-13T17:40:04.911028298Z","level":"INFO","msg":"sender: started","stream_id":"gk8fv1v8"}
-{"time":"2025-02-13T17:40:05.173466324Z","level":"INFO","msg":"Starting system monitor"}
-{"time":"2025-02-13T18:02:42.127035857Z","level":"INFO","msg":"Pausing system monitor"}

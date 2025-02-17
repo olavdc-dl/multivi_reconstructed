@@ -1,8 +1,0 @@
-2025-02-13 10:16:57,454 INFO    MainThread:2850 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /home/olavdc/github/multiVI/multiVI/wandb/run-20250213_101657-6oblbb66/logs/debug.log
-2025-02-13 10:16:57,455 INFO    MainThread:2850 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /home/olavdc/github/multiVI/multiVI/wandb/run-20250213_101657-6oblbb66/logs/debug-internal.log
-2025-02-13 10:16:57,455 INFO    MainThread:2850 [wandb_init.py:init():756] calling init triggers
-2025-02-13 10:16:57,455 INFO    MainThread:2850 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
-config: {'_wandb': {}}
-2025-02-13 10:16:57,455 INFO    MainThread:2850 [wandb_init.py:init():781] wandb.init() called when a run is still active
-2025-02-13 10:17:17,307 INFO    MainThread:2850 [jupyter.py:save_ipynb():386] not saving jupyter notebook
-2025-02-13 10:17:17,307 INFO    MainThread:2850 [wandb_init.py:_pause_backend():554] pausing backend

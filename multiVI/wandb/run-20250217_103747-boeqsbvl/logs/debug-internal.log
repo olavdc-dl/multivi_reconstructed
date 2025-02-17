@@ -1,0 +1,8 @@
+{"time":"2025-02-17T10:37:47.792012772Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"wandb/run-20250217_103747-boeqsbvl/logs/debug-core.log"}
+{"time":"2025-02-17T10:37:47.894688787Z","level":"INFO","msg":"created new stream","id":"boeqsbvl"}
+{"time":"2025-02-17T10:37:47.894711387Z","level":"INFO","msg":"stream: started","id":"boeqsbvl"}
+{"time":"2025-02-17T10:37:47.894750687Z","level":"INFO","msg":"writer: Do: started","stream_id":"boeqsbvl"}
+{"time":"2025-02-17T10:37:47.894779167Z","level":"INFO","msg":"handler: started","stream_id":"boeqsbvl"}
+{"time":"2025-02-17T10:37:47.894842397Z","level":"INFO","msg":"sender: started","stream_id":"boeqsbvl"}
+{"time":"2025-02-17T10:37:48.263729207Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-17T10:56:59.937669647Z","level":"INFO","msg":"Pausing system monitor"}

@@ -634,7 +634,6 @@ class AdversarialTrainingPlan(TrainingPlan):
             opt2.zero_grad()
             self.manual_backward(loss)
             opt2.step()
-
             self.log("adv_train_loss", loss, on_step = True)
 
     def on_train_epoch_end(self):

@@ -1,8 +1,0 @@
-{"time":"2025-02-12T10:39:47.031619701Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"wandb/run-20250212_103946-gudu7bey/logs/debug-core.log"}
-{"time":"2025-02-12T10:39:47.134675757Z","level":"INFO","msg":"created new stream","id":"gudu7bey"}
-{"time":"2025-02-12T10:39:47.134709367Z","level":"INFO","msg":"stream: started","id":"gudu7bey"}
-{"time":"2025-02-12T10:39:47.134740547Z","level":"INFO","msg":"writer: Do: started","stream_id":"gudu7bey"}
-{"time":"2025-02-12T10:39:47.134757857Z","level":"INFO","msg":"sender: started","stream_id":"gudu7bey"}
-{"time":"2025-02-12T10:39:47.134785677Z","level":"INFO","msg":"handler: started","stream_id":"gudu7bey"}
-{"time":"2025-02-12T10:39:47.492290454Z","level":"INFO","msg":"Starting system monitor"}
-{"time":"2025-02-12T10:47:11.760089424Z","level":"INFO","msg":"Pausing system monitor"}

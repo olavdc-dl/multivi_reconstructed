@@ -1,0 +1,14 @@
+{"time":"2025-02-17T10:20:58.02869343Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/olavdc/github/multiVI_repo_test/multiVI/wandb/run-20250217_102057-9fg2bs7e/logs/debug-core.log"}
+{"time":"2025-02-17T10:20:58.131250669Z","level":"INFO","msg":"created new stream","id":"9fg2bs7e"}
+{"time":"2025-02-17T10:20:58.13127533Z","level":"INFO","msg":"stream: started","id":"9fg2bs7e"}
+{"time":"2025-02-17T10:20:58.13129981Z","level":"INFO","msg":"writer: Do: started","stream_id":"9fg2bs7e"}
+{"time":"2025-02-17T10:20:58.131317659Z","level":"INFO","msg":"handler: started","stream_id":"9fg2bs7e"}
+{"time":"2025-02-17T10:20:58.131390418Z","level":"INFO","msg":"sender: started","stream_id":"9fg2bs7e"}
+{"time":"2025-02-17T10:20:58.343995Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-17T10:30:12.131781489Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-17T10:30:12.172152962Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-17T10:30:12.174711301Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-17T10:32:13.811137384Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-17T10:32:13.815923075Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-17T10:32:15.267043884Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-17T10:32:15.269583952Z","level":"INFO","msg":"Pausing system monitor"}

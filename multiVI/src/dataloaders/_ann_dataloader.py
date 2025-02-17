@@ -102,8 +102,7 @@ class AnnDataLoader(DataLoader):
             data_and_attributes=data_and_attributes,
             load_sparse_tensor=load_sparse_tensor,
         )
-        print(self.dataset[:128]["x"].sum())
-
+        
         if "num_workers" not in kwargs:
             kwargs["num_workers"] = settings.dl_num_workers
         if "persistent_workers" not in kwargs:

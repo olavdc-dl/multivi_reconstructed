@@ -1,6 +1,0 @@
-LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
-/home/olavdc/miniforge3/envs/deeplife/lib/python3.10/site-packages/lightning/pytorch/trainer/connectors/data_connector.py:425: The 'train_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=7` in the `DataLoader` to improve performance.
-/home/olavdc/miniforge3/envs/deeplife/lib/python3.10/site-packages/lightning/pytorch/trainer/connectors/data_connector.py:425: The 'val_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=7` in the `DataLoader` to improve performance.
-Epoch 86/500:  17%|█▋        | 85/500 [07:22<36:00,  5.21s/it, v_num=7bey, train_loss_step=1.31e+4, train_loss_epoch=1.36e+4]
-
-Detected KeyboardInterrupt, attempting graceful shutdown ...
