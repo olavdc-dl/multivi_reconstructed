@@ -5,15 +5,15 @@ from typing import TYPE_CHECKING
 
 import pandas as pd
 
-from scvi import REGISTRY_KEYS
-from scvi.data import AnnDataManager
-from scvi.data.fields import CategoricalObsField, LayerField
-from scvi.model._utils import _init_library_size
-from scvi.model.base import UnsupervisedTrainingMixin
-from scvi.module import LDVAE
-from scvi.utils import setup_anndata_dsp
+from scvi_local import REGISTRY_KEYS
+from scvi_local.data import AnnDataManager
+from scvi_local.data.fields import CategoricalObsField, LayerField
+from scvi_local.model._utils import _init_library_size
+from scvi_local.model.base import UnsupervisedTrainingMixin
+from scvi_local.module import LDVAE
+from scvi_local.utils import setup_anndata_dsp
 
-from .base import BaseModelClass, RNASeqMixin, VAEMixin
+from scvi_local.model.base import BaseModelClass, RNASeqMixin, VAEMixin
 
 if TYPE_CHECKING:
     from typing import Literal

@@ -41,7 +41,7 @@ class FCLayers(nn.Module):
             self.n_cat_list = []
         
         cat_dim = sum(self.n_cat_list)
-
+        
         self.fc_layers = nn.Sequential(
             collections.OrderedDict(
                 [
